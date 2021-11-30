@@ -1,0 +1,98 @@
+76
+src/recursos/tiles/ballista1.png
+src/recursos/tiles/ballista2.png
+src/recursos/tiles/ballista3.png
+src/recursos/tiles/ballista4.png
+05
+src/recursos/tiles/castle1.png
+src/recursos/tiles/castle2.png
+src/recursos/tiles/castle3.png
+src/recursos/tiles/castle4.png
+src/recursos/tiles/castle5.png
+src/recursos/tiles/castle6.png
+src/recursos/tiles/castle7.png
+src/recursos/tiles/castle8.png
+src/recursos/tiles/castle9.png
+src/recursos/tiles/castle10.png
+src/recursos/tiles/castle11.png
+src/recursos/tiles/castle12.png
+src/recursos/tiles/castle13.png
+src/recursos/tiles/castle14.png
+src/recursos/tiles/castle15.png
+src/recursos/tiles/castle16.png
+src/recursos/tiles/castle17.png
+src/recursos/tiles/castle18.png
+src/recursos/tiles/castle19.png
+src/recursos/tiles/castle20.png
+src/recursos/tiles/castle21.png
+src/recursos/tiles/castle22.png
+src/recursos/tiles/castle23.png
+src/recursos/tiles/castle24.png
+src/recursos/tiles/castle25.png
+src/recursos/tiles/castle26.png
+src/recursos/tiles/castle27.png
+src/recursos/tiles/castle28.png
+src/recursos/tiles/castle29.png
+src/recursos/tiles/castle30.png
+src/recursos/tiles/castle31.png
+src/recursos/tiles/castle32.png
+src/recursos/tiles/castle33.png
+src/recursos/tiles/castle34.png
+src/recursos/tiles/castle35.png
+src/recursos/tiles/castle36.png
+src/recursos/tiles/castle37.png
+src/recursos/tiles/castle38.png
+src/recursos/tiles/castle39.png
+src/recursos/tiles/castle40.png
+src/recursos/tiles/castle41.png
+src/recursos/tiles/castle42.png
+src/recursos/tiles/castle43.png
+src/recursos/tiles/castle44.png
+src/recursos/tiles/castle45.png
+src/recursos/tiles/castle46.png
+src/recursos/tiles/castle47.png
+src/recursos/tiles/castle48.png
+src/recursos/tiles/castle49.png
+src/recursos/tiles/castle50.png
+src/recursos/tiles/castle51.png
+src/recursos/tiles/castle52.png
+src/recursos/tiles/castle53.png
+src/recursos/tiles/castle54.png
+src/recursos/tiles/castle55.png
+src/recursos/tiles/castle56.png
+src/recursos/tiles/castle57.png
+src/recursos/tiles/castle58.png
+src/recursos/tiles/castle59.png
+src/recursos/tiles/castle60.png
+src/recursos/tiles/castle61.png
+src/recursos/tiles/castle62.png
+src/recursos/tiles/castle63.png
+src/recursos/tiles/castle64.png
+src/recursos/tiles/castle65.png
+src/recursos/tiles/castle66.png
+src/recursos/tiles/castle67.png
+src/recursos/tiles/castle68.png
+src/recursos/tiles/castle69.png
+src/recursos/tiles/wall.png
+76
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 07 08 09 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 11 12 13 14 15 00
+00 00 01 02 00 00 01 02 00 00 01 02 00 00 00 00 00 00 16 17 18 19 20 21 00
+00 00 03 04 00 00 03 04 00 00 03 04 00 00 00 00 22 23 24 25 26 27 28 29 30
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 31 32 33 34 35 36 37 38 39 40
+75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 41 42 43 44 45 46 47 48 49 50
+75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 51 52 53 54 55 56 57 58 59 60
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 62 63 64 65 66 67 68 69 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 70 71 72 73 74 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+%
+src/recursos/cenario/background.png
